@@ -36,7 +36,7 @@ def get_answer_from_text(text, question, api_key):
 
 def main():
     # Your OpenAI API key
-    api_key = "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"
+    api_key = "<Insert API KEY here>"
     # Streamlit UI
     title_template="""
     <div style="background-color:#333333;padding:5px;">
